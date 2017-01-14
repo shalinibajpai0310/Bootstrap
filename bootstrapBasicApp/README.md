@@ -1,12 +1,8 @@
 Simple application including bootstrap/
-Components included:
-navigation bar
-jumbotron
-grid system
-containers
-caraousel
-panels
+tables overview in bootstrap
+<table><tr>
+<td></td></tr></table>
 
-
-Can check it on below plunker link:
-https://plnkr.co/edit/u551i2uXlnArZTdlTQgR?p=preview
+class involved:
+table table-striped table-bordered table-hover
+rows:class="info,warning,danger,success"
