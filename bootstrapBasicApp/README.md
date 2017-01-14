@@ -1,12 +1,7 @@
 Simple application including bootstrap/
-Components included:
-navigation bar
-jumbotron
-grid system
-containers
-caraousel
-panels
+dropdowns:
 
-
-Can check it on below plunker link:
-https://plnkr.co/edit/u551i2uXlnArZTdlTQgR?p=preview
+classes ::
+class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+<ul class="dropdown-menu">
+<li class="dropdown-header">FirstHeader</li>
